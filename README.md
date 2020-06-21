@@ -54,3 +54,8 @@
 **Для более опытных:**
 
 - `'python YotaPyClient.py /help'` вам в помощь.
+
+**Скрины:**
+
+![](https://github.com/Lex-alur/YotaPyClient/blob/master/Screenshots/1.png "Первая часть хелпа")
+![](https://github.com/Lex-alur/YotaPyClient/blob/master/Screenshots/2.png "Вторая часть хэлпа")
